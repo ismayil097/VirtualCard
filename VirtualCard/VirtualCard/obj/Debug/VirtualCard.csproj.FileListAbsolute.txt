@@ -1,0 +1,6 @@
+c:\users\ismayil\documents\visual studio 2017\Projects\VirtualCard\VirtualCard\bin\Debug\VirtualCard.exe.config
+c:\users\ismayil\documents\visual studio 2017\Projects\VirtualCard\VirtualCard\bin\Debug\VirtualCard.exe
+c:\users\ismayil\documents\visual studio 2017\Projects\VirtualCard\VirtualCard\bin\Debug\VirtualCard.pdb
+c:\users\ismayil\documents\visual studio 2017\Projects\VirtualCard\VirtualCard\obj\Debug\VirtualCard.csprojResolveAssemblyReference.cache
+c:\users\ismayil\documents\visual studio 2017\Projects\VirtualCard\VirtualCard\obj\Debug\VirtualCard.exe
+c:\users\ismayil\documents\visual studio 2017\Projects\VirtualCard\VirtualCard\obj\Debug\VirtualCard.pdb
